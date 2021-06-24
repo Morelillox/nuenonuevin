@@ -1,0 +1,22 @@
+.example{
+    background-color: bisque;
+    margin: 50px;
+}
+
+.itemrelative{
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+
+.absolute{
+    position: absolute;
+    top: 10px;
+    left: 60px;
+}
+
+.fixed{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
